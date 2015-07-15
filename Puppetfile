@@ -13,8 +13,8 @@ metadata
 # mod 'puppetlabs-stdlib'
 
 # A module from git
-# mod 'puppetlabs-ntp',
-#   :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
+mod 'libtest2',
+  :git => 'git@github.com:madAndroid/puppet-profile-libtest2.git'
 
 # A module from a git branch/tag
 # mod 'puppetlabs-apt',
